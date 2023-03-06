@@ -4,6 +4,12 @@
 #### Motivation
 Design a Truss bridge with specifications for the maximum weight supported, the cost of the truss, and the load-to-cost ratio. Then test the design’s performance through a MATLAB written program. 
 
+#### Truss Bridge Hand Drawn Design
+![App Screenshot](https://github.com/noam003/Truss-Bridge-Analysis/blob/main/truss.png)
+
+#### Truss Bridge Design Data
+## This data was analyzed by the [program](https://github.com/user/repo/blob/branch/other_file.md)
+
 | Member Number  | Member Length (in) | Tension/Compression | Buckling Strength ± uncertainty (oz) | Magnitude of internal force at nominal maximum |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 (AB)  | 7.810  | Compression  | 48.28 ± 6.914  | 39.932  |
@@ -19,17 +25,12 @@ Design a Truss bridge with specifications for the maximum weight supported, the 
 | 11 (DH)  | 11.31  | Tension  | N/A  | 28.922  |
 | 12 (DG)  | 8.000  | Compression  | 46.03 ± 6.750  | 16.799  |
 | 13 (GE)  | 9.899  | Tension  | N/A  | 23.758  |
+Table 1: Final Truss Design Results
 
 
-| First Header  | Second Header | 3 Header | 4 Header | 5 Header |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Maximum Theoretical Load  | Truss Cost | Load-to-Cost Ratio |
+| ------------- | ------------- | ------------- |
+| 51.128 oz  | $194.21  | 0.263 oz/$  |
 
 #### Truss Bridge Handdrawn Design
 ![App Screenshot](https://github.com/noam003/Truss-Bridge-Analysis/blob/main/truss.png)
-
-#### Truss Design Data in Table
-
-![App Screenshot](https://github.com/noam003/Truss-Bridge-Analysis/blob/main/truss_design.png)
