@@ -12,7 +12,7 @@ Table 2 summarizes the results
 
 Table 1:
 | Member Number  | Member Length (in) | Tension/Compression | Buckling Strength ± uncertainty (oz) | Magnitude of internal force at nominal maximum |
-| :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|     :---:      |     :---:      |     :---:      |     :---:      |     :---:     |
 | 1 (AB)  | 7.810  | Compression  | 48.28 ± 6.914  | 39.932  |
 | 2 (BC) | 7.280  | Compression  | 55.56 ± 7.417  | 47.857  |
 | 3 (CD)  | 8.000  | Compression  | 46.02 ± 6.750  | 46.015  |
