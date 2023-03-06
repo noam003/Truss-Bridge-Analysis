@@ -1,5 +1,4 @@
-# Truss Bridge Design 
-## Analysis with Matlab
+# Truss Bridge Design Analysis Using Matlab
 
 #### Motivation
 Design a Truss bridge with specifications for the maximum weight supported, the cost of the truss, and the load-to-cost ratio. Then test the design’s performance through a MATLAB written program. 
@@ -8,7 +7,7 @@ Design a Truss bridge with specifications for the maximum weight supported, the 
 ![App Screenshot](https://github.com/noam003/Truss-Bridge-Analysis/blob/main/truss.png)
 
 #### Truss Bridge Design Data
-## This data was analyzed by the [program](https://github.com/user/repo/blob/branch/other_file.md)
+This data was analyzed by the [program](https://github.com/noam003/Truss-Bridge-Analysis/blob/main/truss_proj.m)
 
 | Member Number  | Member Length (in) | Tension/Compression | Buckling Strength ± uncertainty (oz) | Magnitude of internal force at nominal maximum |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
