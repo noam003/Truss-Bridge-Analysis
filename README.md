@@ -1,4 +1,4 @@
-# Truss Bridge Design Analysis Using Matlab
+# Truss Bridge Design Analysis Using Matlab 🛠️🌉
 
 #### Motivation
 Design a Truss bridge with specifications for the maximum weight supported, the cost of the truss, and the load-to-cost ratio. Then test the design’s performance through a MATLAB written program. 
