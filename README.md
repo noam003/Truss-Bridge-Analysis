@@ -8,7 +8,7 @@ Design a Truss bridge with specifications for the maximum weight supported, the 
 
 #### Truss Bridge Design Data and Results
 
-_Table 1: data was analyzed by the program [program](https://github.com/noam003/Truss-Bridge-Analysis/blob/main/truss_proj.m)._
+_Table 1: The data analyzed by the program [program](https://github.com/noam003/Truss-Bridge-Analysis/blob/main/truss_proj.m)._
 | Member Number  | Member Length (in) | Tension/Compression | Buckling Strength ± uncertainty (oz) | Magnitude of internal force at nominal maximum |
 |     :---:      |     :---:      |     :---:      |     :---:      |     :---:     |
 | 1 (AB)  | 7.810  | Compression  | 48.28 ± 6.914  | 39.932  |
@@ -26,7 +26,7 @@ _Table 1: data was analyzed by the program [program](https://github.com/noam003/
 | 13 (GE)  | 9.899  | Tension  | N/A  | 23.758  |
 
 
-_Table 2: Summarizes the results._
+_Table 2: Summary of the results._
 | Maximum Theoretical Load  | Truss Cost | Load-to-Cost Ratio |
 |     :---:      |     :---:      |     :---:      |
 | 51.128 oz  | $194.21  | 0.263 oz/$  |
