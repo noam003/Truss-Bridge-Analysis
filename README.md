@@ -9,4 +9,4 @@ Design a Truss bridge with specifications for the maximum weight supported, the 
 
 #### Truss Design Data in Table
 
-![App Screenshot][https://github.com/noam003/Truss-Bridge-Analysis/blob/main/truss_design.png]
+![App Screenshot](https://github.com/noam003/Truss-Bridge-Analysis/blob/main/truss_design.png)
